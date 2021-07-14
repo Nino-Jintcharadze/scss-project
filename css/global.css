@@ -70,7 +70,7 @@ table {
   height: 70px;
 }
 
-body {
+header {
   background-color: #fc405ffa;
 }
 
@@ -135,7 +135,7 @@ body {
 .header-wraper .header-cont .header-text .main-heading, .header-wraper .header-cont .header-text .header-p {
   color: #fff;
   font-family: "Roboto";
-  font-size: 80px;
+  font-size: 70px;
   max-width: 535px;
   width: 100%;
   margin-top: 50px;
@@ -177,7 +177,7 @@ body {
 }
 
 .header-wraper .header-cont .right-block {
-  max-width: 550px;
+  max-width: 450px;
   width: 100%;
 }
 

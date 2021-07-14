@@ -1,4 +1,4 @@
-body {
+header {
     background-color: #fc405ffa;
 }
 
@@ -34,7 +34,7 @@ body {
             .main-heading {
                 color: $white;
                 font-family: $roboto;
-                font-size: 80px;
+                font-size: 70px;
                 max-width: 535px;
                 width: 100%;
                 margin-top: 50px;
@@ -67,7 +67,7 @@ body {
             }
         }
         .right-block {
-            max-width: 550px;
+            max-width: 450px;
             width: 100%; 
             .header-img {
                 width: 100%;
@@ -84,7 +84,7 @@ body {
     @include d-flex(flex, space-around);
     flex-wrap: wrap;
     padding-bottom: 50px;
-    .box {
+        .box {
         @include d-flex(flex, space-around);
         flex-direction: column;
         align-items: center;
