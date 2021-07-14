@@ -1,6 +1,9 @@
 body {
     background-color: #fc405ffa;
 }
+
+// header
+
 .header-wraper {
     nav {
         @include d-flex(flex, space-around);
@@ -70,6 +73,8 @@ body {
         }
     }
 }
+
+// Section
 
 .boxes {
     width: 100%;
