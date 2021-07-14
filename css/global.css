@@ -129,13 +129,12 @@ body {
   font-size: 80px;
   max-width: 535px;
   width: 100%;
-  margin-top: 80px;
+  margin-top: 30px;
 }
 
 @media (max-width: 850px) {
   .header-wraper .header-cont .header-text .main-heading, .header-wraper .header-cont .header-text .header-p {
     font-size: 50px;
-    margin-top: 50px;
   }
 }
 
@@ -169,7 +168,7 @@ body {
 }
 
 .header-wraper .header-cont .right-block {
-  max-width: 610px;
+  max-width: 650px;
   width: 100%;
 }
 

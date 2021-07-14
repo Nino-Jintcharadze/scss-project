@@ -33,10 +33,9 @@ body {
                 font-size: 80px;
                 max-width: 535px;
                 width: 100%;
-                margin-top: 80px;
+                margin-top: 30px;
                 @media (max-width: 850px) {
                     font-size: 50px;
-                    margin-top: 50px;
                 }
             }
             .header-p {
@@ -64,7 +63,7 @@ body {
             }
         }
         .right-block {
-            max-width: 610px;
+            max-width: 650px;
             width: 100%; 
             .header-img {
                 @include margin-top30;
